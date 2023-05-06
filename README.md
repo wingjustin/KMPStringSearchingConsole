@@ -1,0 +1,2 @@
+# KMPStringSearchingConsole
+ Learn KMP Algorithm
